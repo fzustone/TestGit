@@ -10,6 +10,10 @@ public class UserController {
         return "chenly";
     }
 
+    private String getGrade() {
+        return "8年级";
+    }
+
     private Integer getAge() {
         return 25;
     }
