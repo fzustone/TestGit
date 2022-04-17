@@ -11,7 +11,7 @@ public class UserController {
     }
 
     private String getGrade() {
-        return "8年级";
+        return "8年级___xinjia";
     }
 
     private Integer getAge() {
