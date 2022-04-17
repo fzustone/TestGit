@@ -9,4 +9,8 @@ public class UserController {
     private String getName() {
         return "chenly";
     }
+
+    private Integer getAge() {
+        return 25;
+    }
 }
