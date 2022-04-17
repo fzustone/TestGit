@@ -9,4 +9,12 @@ public class UserController {
     private String getName() {
         return "chenly";
     }
+
+    private String getGrade() {
+        return "8年级___xinjia";
+    }
+
+    private Integer getAge() {
+        return 25;
+    }
 }
