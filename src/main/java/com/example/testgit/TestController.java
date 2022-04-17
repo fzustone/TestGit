@@ -7,4 +7,6 @@ package com.example.testgit;
 public class TestController {
 
     public static final String WORD_TEST = "wordTest";
+
+    public static final String WORD_TEST_01 = "wordTest01";
 }
