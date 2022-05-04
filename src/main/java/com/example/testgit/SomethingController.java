@@ -5,4 +5,6 @@ package com.example.testgit;
  * @create 2022-05-04 11:19
  */
 public class SomethingController {
+
+    public static final String TEST = "1";
 }
